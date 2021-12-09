@@ -46,7 +46,7 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://vercel.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Vercel-ffffff.svg?logo=vercel&logoColor=black"></a>
+    <a href="https://vercel.com/"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-ffffff.svg?logo=vercel&logoColor=black"></a>
  </p>
   
 ### 👉Graphic Designing
