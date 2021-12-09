@@ -88,6 +88,6 @@
 <br/>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-remi.vieille@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:remi.vieille@gmail.com)](remi.vieille@gmail.com)
+📫 <a href="mailto:remi.vieille@gmail.com"><img alt="mail" src="https://img.shields.io/badge/-remi.vieille@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white"></a>
 
 
