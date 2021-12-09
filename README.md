@@ -6,7 +6,7 @@
 <h3 >I am a Junior web developer. I like to Code, Innovate and Experiment. I am a believer in agile software development and a person who loves to take up new challenges and learn new skills.</h3>
 
 <h3 >📚 I’m currently learning everything about Frontend and Backend technologies 😅 </h3> 
-<h3 >💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</h3> 
+<h3 >💪Future Goals: Learn more technologies - Never stop creating new ideas.</h3> 
 
 <br/>
 
